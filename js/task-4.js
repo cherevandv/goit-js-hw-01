@@ -3,6 +3,8 @@ const pricePerDroid = 3000;
 let numberDroid;
 let totalPrice;
 
+//Вариант 1:
+
 numberDroid = prompt("Введите количество дроидов, (шт)");
 
 numberDroid === null
@@ -27,6 +29,8 @@ if (
     );
   }
 }
+
+// Вариант 2:
 
 // do {
 //   numberDroid = prompt("Введите количество дроидов, (шт)");
